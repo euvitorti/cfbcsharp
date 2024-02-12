@@ -1,0 +1,14 @@
+C:\C#\Aula34\CadeiaHeranca\bin\Debug\net8.0\CadeiaHeranca.exe
+C:\C#\Aula34\CadeiaHeranca\bin\Debug\net8.0\CadeiaHeranca.deps.json
+C:\C#\Aula34\CadeiaHeranca\bin\Debug\net8.0\CadeiaHeranca.runtimeconfig.json
+C:\C#\Aula34\CadeiaHeranca\bin\Debug\net8.0\CadeiaHeranca.dll
+C:\C#\Aula34\CadeiaHeranca\bin\Debug\net8.0\CadeiaHeranca.pdb
+C:\C#\Aula34\CadeiaHeranca\obj\Debug\net8.0\CadeiaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula34\CadeiaHeranca\obj\Debug\net8.0\CadeiaHeranca.AssemblyInfoInputs.cache
+C:\C#\Aula34\CadeiaHeranca\obj\Debug\net8.0\CadeiaHeranca.AssemblyInfo.cs
+C:\C#\Aula34\CadeiaHeranca\obj\Debug\net8.0\CadeiaHeranca.csproj.CoreCompileInputs.cache
+C:\C#\Aula34\CadeiaHeranca\obj\Debug\net8.0\CadeiaHeranca.dll
+C:\C#\Aula34\CadeiaHeranca\obj\Debug\net8.0\refint\CadeiaHeranca.dll
+C:\C#\Aula34\CadeiaHeranca\obj\Debug\net8.0\CadeiaHeranca.pdb
+C:\C#\Aula34\CadeiaHeranca\obj\Debug\net8.0\CadeiaHeranca.genruntimeconfig.cache
+C:\C#\Aula34\CadeiaHeranca\obj\Debug\net8.0\ref\CadeiaHeranca.dll

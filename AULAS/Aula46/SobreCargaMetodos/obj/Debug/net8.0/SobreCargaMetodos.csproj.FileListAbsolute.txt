@@ -1,0 +1,14 @@
+C:\C#\Aula46\SobreCargaMetodos\bin\Debug\net8.0\SobreCargaMetodos.exe
+C:\C#\Aula46\SobreCargaMetodos\bin\Debug\net8.0\SobreCargaMetodos.deps.json
+C:\C#\Aula46\SobreCargaMetodos\bin\Debug\net8.0\SobreCargaMetodos.runtimeconfig.json
+C:\C#\Aula46\SobreCargaMetodos\bin\Debug\net8.0\SobreCargaMetodos.dll
+C:\C#\Aula46\SobreCargaMetodos\bin\Debug\net8.0\SobreCargaMetodos.pdb
+C:\C#\Aula46\SobreCargaMetodos\obj\Debug\net8.0\SobreCargaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula46\SobreCargaMetodos\obj\Debug\net8.0\SobreCargaMetodos.AssemblyInfoInputs.cache
+C:\C#\Aula46\SobreCargaMetodos\obj\Debug\net8.0\SobreCargaMetodos.AssemblyInfo.cs
+C:\C#\Aula46\SobreCargaMetodos\obj\Debug\net8.0\SobreCargaMetodos.csproj.CoreCompileInputs.cache
+C:\C#\Aula46\SobreCargaMetodos\obj\Debug\net8.0\SobreCargaMetodos.dll
+C:\C#\Aula46\SobreCargaMetodos\obj\Debug\net8.0\refint\SobreCargaMetodos.dll
+C:\C#\Aula46\SobreCargaMetodos\obj\Debug\net8.0\SobreCargaMetodos.pdb
+C:\C#\Aula46\SobreCargaMetodos\obj\Debug\net8.0\SobreCargaMetodos.genruntimeconfig.cache
+C:\C#\Aula46\SobreCargaMetodos\obj\Debug\net8.0\ref\SobreCargaMetodos.dll

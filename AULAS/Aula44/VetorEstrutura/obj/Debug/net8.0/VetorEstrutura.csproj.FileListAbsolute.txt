@@ -1,0 +1,14 @@
+C:\C#\Aula44\VetorEstrutura\bin\Debug\net8.0\VetorEstrutura.exe
+C:\C#\Aula44\VetorEstrutura\bin\Debug\net8.0\VetorEstrutura.deps.json
+C:\C#\Aula44\VetorEstrutura\bin\Debug\net8.0\VetorEstrutura.runtimeconfig.json
+C:\C#\Aula44\VetorEstrutura\bin\Debug\net8.0\VetorEstrutura.dll
+C:\C#\Aula44\VetorEstrutura\bin\Debug\net8.0\VetorEstrutura.pdb
+C:\C#\Aula44\VetorEstrutura\obj\Debug\net8.0\VetorEstrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula44\VetorEstrutura\obj\Debug\net8.0\VetorEstrutura.AssemblyInfoInputs.cache
+C:\C#\Aula44\VetorEstrutura\obj\Debug\net8.0\VetorEstrutura.AssemblyInfo.cs
+C:\C#\Aula44\VetorEstrutura\obj\Debug\net8.0\VetorEstrutura.csproj.CoreCompileInputs.cache
+C:\C#\Aula44\VetorEstrutura\obj\Debug\net8.0\VetorEstrutura.dll
+C:\C#\Aula44\VetorEstrutura\obj\Debug\net8.0\refint\VetorEstrutura.dll
+C:\C#\Aula44\VetorEstrutura\obj\Debug\net8.0\VetorEstrutura.pdb
+C:\C#\Aula44\VetorEstrutura\obj\Debug\net8.0\VetorEstrutura.genruntimeconfig.cache
+C:\C#\Aula44\VetorEstrutura\obj\Debug\net8.0\ref\VetorEstrutura.dll

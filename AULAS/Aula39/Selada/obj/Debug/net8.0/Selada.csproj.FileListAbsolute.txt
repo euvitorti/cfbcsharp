@@ -1,0 +1,4 @@
+C:\C#\Aula39\selada\obj\Debug\net8.0\Selada.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula39\selada\obj\Debug\net8.0\Selada.AssemblyInfoInputs.cache
+C:\C#\Aula39\selada\obj\Debug\net8.0\Selada.AssemblyInfo.cs
+C:\C#\Aula39\selada\obj\Debug\net8.0\Selada.csproj.CoreCompileInputs.cache

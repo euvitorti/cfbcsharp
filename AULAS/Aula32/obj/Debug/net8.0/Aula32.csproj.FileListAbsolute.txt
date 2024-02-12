@@ -1,0 +1,14 @@
+C:\C#\Aula32\bin\Debug\net8.0\Aula32.exe
+C:\C#\Aula32\bin\Debug\net8.0\Aula32.deps.json
+C:\C#\Aula32\bin\Debug\net8.0\Aula32.runtimeconfig.json
+C:\C#\Aula32\bin\Debug\net8.0\Aula32.dll
+C:\C#\Aula32\bin\Debug\net8.0\Aula32.pdb
+C:\C#\Aula32\obj\Debug\net8.0\Aula32.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula32\obj\Debug\net8.0\Aula32.AssemblyInfoInputs.cache
+C:\C#\Aula32\obj\Debug\net8.0\Aula32.AssemblyInfo.cs
+C:\C#\Aula32\obj\Debug\net8.0\Aula32.csproj.CoreCompileInputs.cache
+C:\C#\Aula32\obj\Debug\net8.0\Aula32.dll
+C:\C#\Aula32\obj\Debug\net8.0\refint\Aula32.dll
+C:\C#\Aula32\obj\Debug\net8.0\Aula32.pdb
+C:\C#\Aula32\obj\Debug\net8.0\Aula32.genruntimeconfig.cache
+C:\C#\Aula32\obj\Debug\net8.0\ref\Aula32.dll

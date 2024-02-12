@@ -1,0 +1,14 @@
+C:\C#\Aula41\Indexadores\bin\Debug\net8.0\Indexadores.exe
+C:\C#\Aula41\Indexadores\bin\Debug\net8.0\Indexadores.deps.json
+C:\C#\Aula41\Indexadores\bin\Debug\net8.0\Indexadores.runtimeconfig.json
+C:\C#\Aula41\Indexadores\bin\Debug\net8.0\Indexadores.dll
+C:\C#\Aula41\Indexadores\bin\Debug\net8.0\Indexadores.pdb
+C:\C#\Aula41\Indexadores\obj\Debug\net8.0\Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula41\Indexadores\obj\Debug\net8.0\Indexadores.AssemblyInfoInputs.cache
+C:\C#\Aula41\Indexadores\obj\Debug\net8.0\Indexadores.AssemblyInfo.cs
+C:\C#\Aula41\Indexadores\obj\Debug\net8.0\Indexadores.csproj.CoreCompileInputs.cache
+C:\C#\Aula41\Indexadores\obj\Debug\net8.0\Indexadores.dll
+C:\C#\Aula41\Indexadores\obj\Debug\net8.0\refint\Indexadores.dll
+C:\C#\Aula41\Indexadores\obj\Debug\net8.0\Indexadores.pdb
+C:\C#\Aula41\Indexadores\obj\Debug\net8.0\Indexadores.genruntimeconfig.cache
+C:\C#\Aula41\Indexadores\obj\Debug\net8.0\ref\Indexadores.dll

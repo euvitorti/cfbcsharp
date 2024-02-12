@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "To5mpg0EGK3/XRetoRXu4NCjbANwQgwtPLbQM7/qdSr0XQ2714nNjDrn3hJW0zrES8n0o0aatsToDNdSdSLMpg==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\AULA2\\aula2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ludim\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ludim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ludim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ludim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

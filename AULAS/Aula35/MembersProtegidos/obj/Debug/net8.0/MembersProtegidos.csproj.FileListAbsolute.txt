@@ -1,0 +1,14 @@
+C:\C#\Aula35\MembersProtegidos\bin\Debug\net8.0\MembersProtegidos.exe
+C:\C#\Aula35\MembersProtegidos\bin\Debug\net8.0\MembersProtegidos.deps.json
+C:\C#\Aula35\MembersProtegidos\bin\Debug\net8.0\MembersProtegidos.runtimeconfig.json
+C:\C#\Aula35\MembersProtegidos\bin\Debug\net8.0\MembersProtegidos.dll
+C:\C#\Aula35\MembersProtegidos\bin\Debug\net8.0\MembersProtegidos.pdb
+C:\C#\Aula35\MembersProtegidos\obj\Debug\net8.0\MembersProtegidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula35\MembersProtegidos\obj\Debug\net8.0\MembersProtegidos.AssemblyInfoInputs.cache
+C:\C#\Aula35\MembersProtegidos\obj\Debug\net8.0\MembersProtegidos.AssemblyInfo.cs
+C:\C#\Aula35\MembersProtegidos\obj\Debug\net8.0\MembersProtegidos.csproj.CoreCompileInputs.cache
+C:\C#\Aula35\MembersProtegidos\obj\Debug\net8.0\MembersProtegidos.dll
+C:\C#\Aula35\MembersProtegidos\obj\Debug\net8.0\refint\MembersProtegidos.dll
+C:\C#\Aula35\MembersProtegidos\obj\Debug\net8.0\MembersProtegidos.pdb
+C:\C#\Aula35\MembersProtegidos\obj\Debug\net8.0\MembersProtegidos.genruntimeconfig.cache
+C:\C#\Aula35\MembersProtegidos\obj\Debug\net8.0\ref\MembersProtegidos.dll

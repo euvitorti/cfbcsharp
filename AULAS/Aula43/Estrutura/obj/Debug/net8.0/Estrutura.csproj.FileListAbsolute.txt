@@ -1,0 +1,14 @@
+C:\C#\Aula43\Estrutura\bin\Debug\net8.0\Estrutura.exe
+C:\C#\Aula43\Estrutura\bin\Debug\net8.0\Estrutura.deps.json
+C:\C#\Aula43\Estrutura\bin\Debug\net8.0\Estrutura.runtimeconfig.json
+C:\C#\Aula43\Estrutura\bin\Debug\net8.0\Estrutura.dll
+C:\C#\Aula43\Estrutura\bin\Debug\net8.0\Estrutura.pdb
+C:\C#\Aula43\Estrutura\obj\Debug\net8.0\Estrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula43\Estrutura\obj\Debug\net8.0\Estrutura.AssemblyInfoInputs.cache
+C:\C#\Aula43\Estrutura\obj\Debug\net8.0\Estrutura.AssemblyInfo.cs
+C:\C#\Aula43\Estrutura\obj\Debug\net8.0\Estrutura.csproj.CoreCompileInputs.cache
+C:\C#\Aula43\Estrutura\obj\Debug\net8.0\Estrutura.dll
+C:\C#\Aula43\Estrutura\obj\Debug\net8.0\refint\Estrutura.dll
+C:\C#\Aula43\Estrutura\obj\Debug\net8.0\Estrutura.pdb
+C:\C#\Aula43\Estrutura\obj\Debug\net8.0\Estrutura.genruntimeconfig.cache
+C:\C#\Aula43\Estrutura\obj\Debug\net8.0\ref\Estrutura.dll

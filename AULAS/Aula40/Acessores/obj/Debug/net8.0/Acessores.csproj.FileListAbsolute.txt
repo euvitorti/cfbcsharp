@@ -1,0 +1,14 @@
+C:\C#\Aula40\Acessores\bin\Debug\net8.0\Acessores.exe
+C:\C#\Aula40\Acessores\bin\Debug\net8.0\Acessores.deps.json
+C:\C#\Aula40\Acessores\bin\Debug\net8.0\Acessores.runtimeconfig.json
+C:\C#\Aula40\Acessores\bin\Debug\net8.0\Acessores.dll
+C:\C#\Aula40\Acessores\bin\Debug\net8.0\Acessores.pdb
+C:\C#\Aula40\Acessores\obj\Debug\net8.0\Acessores.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula40\Acessores\obj\Debug\net8.0\Acessores.AssemblyInfoInputs.cache
+C:\C#\Aula40\Acessores\obj\Debug\net8.0\Acessores.AssemblyInfo.cs
+C:\C#\Aula40\Acessores\obj\Debug\net8.0\Acessores.csproj.CoreCompileInputs.cache
+C:\C#\Aula40\Acessores\obj\Debug\net8.0\Acessores.dll
+C:\C#\Aula40\Acessores\obj\Debug\net8.0\refint\Acessores.dll
+C:\C#\Aula40\Acessores\obj\Debug\net8.0\Acessores.pdb
+C:\C#\Aula40\Acessores\obj\Debug\net8.0\Acessores.genruntimeconfig.cache
+C:\C#\Aula40\Acessores\obj\Debug\net8.0\ref\Acessores.dll

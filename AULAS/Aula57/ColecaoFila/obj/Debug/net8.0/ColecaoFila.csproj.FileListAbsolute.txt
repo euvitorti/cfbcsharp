@@ -1,0 +1,14 @@
+C:\C#\Aula57\ColecaoFila\bin\Debug\net8.0\ColecaoFila.exe
+C:\C#\Aula57\ColecaoFila\bin\Debug\net8.0\ColecaoFila.deps.json
+C:\C#\Aula57\ColecaoFila\bin\Debug\net8.0\ColecaoFila.runtimeconfig.json
+C:\C#\Aula57\ColecaoFila\bin\Debug\net8.0\ColecaoFila.dll
+C:\C#\Aula57\ColecaoFila\bin\Debug\net8.0\ColecaoFila.pdb
+C:\C#\Aula57\ColecaoFila\obj\Debug\net8.0\ColecaoFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula57\ColecaoFila\obj\Debug\net8.0\ColecaoFila.AssemblyInfoInputs.cache
+C:\C#\Aula57\ColecaoFila\obj\Debug\net8.0\ColecaoFila.AssemblyInfo.cs
+C:\C#\Aula57\ColecaoFila\obj\Debug\net8.0\ColecaoFila.csproj.CoreCompileInputs.cache
+C:\C#\Aula57\ColecaoFila\obj\Debug\net8.0\ColecaoFila.dll
+C:\C#\Aula57\ColecaoFila\obj\Debug\net8.0\refint\ColecaoFila.dll
+C:\C#\Aula57\ColecaoFila\obj\Debug\net8.0\ColecaoFila.pdb
+C:\C#\Aula57\ColecaoFila\obj\Debug\net8.0\ColecaoFila.genruntimeconfig.cache
+C:\C#\Aula57\ColecaoFila\obj\Debug\net8.0\ref\ColecaoFila.dll

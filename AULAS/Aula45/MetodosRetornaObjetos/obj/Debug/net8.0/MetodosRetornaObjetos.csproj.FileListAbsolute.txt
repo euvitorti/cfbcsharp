@@ -1,0 +1,14 @@
+C:\C#\Aula45\MetodosRetornaObjetos\bin\Debug\net8.0\MetodosRetornaObjetos.exe
+C:\C#\Aula45\MetodosRetornaObjetos\bin\Debug\net8.0\MetodosRetornaObjetos.deps.json
+C:\C#\Aula45\MetodosRetornaObjetos\bin\Debug\net8.0\MetodosRetornaObjetos.runtimeconfig.json
+C:\C#\Aula45\MetodosRetornaObjetos\bin\Debug\net8.0\MetodosRetornaObjetos.dll
+C:\C#\Aula45\MetodosRetornaObjetos\bin\Debug\net8.0\MetodosRetornaObjetos.pdb
+C:\C#\Aula45\MetodosRetornaObjetos\obj\Debug\net8.0\MetodosRetornaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aula45\MetodosRetornaObjetos\obj\Debug\net8.0\MetodosRetornaObjetos.AssemblyInfoInputs.cache
+C:\C#\Aula45\MetodosRetornaObjetos\obj\Debug\net8.0\MetodosRetornaObjetos.AssemblyInfo.cs
+C:\C#\Aula45\MetodosRetornaObjetos\obj\Debug\net8.0\MetodosRetornaObjetos.csproj.CoreCompileInputs.cache
+C:\C#\Aula45\MetodosRetornaObjetos\obj\Debug\net8.0\MetodosRetornaObjetos.dll
+C:\C#\Aula45\MetodosRetornaObjetos\obj\Debug\net8.0\refint\MetodosRetornaObjetos.dll
+C:\C#\Aula45\MetodosRetornaObjetos\obj\Debug\net8.0\MetodosRetornaObjetos.pdb
+C:\C#\Aula45\MetodosRetornaObjetos\obj\Debug\net8.0\MetodosRetornaObjetos.genruntimeconfig.cache
+C:\C#\Aula45\MetodosRetornaObjetos\obj\Debug\net8.0\ref\MetodosRetornaObjetos.dll
